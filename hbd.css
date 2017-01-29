@@ -1,0 +1,52 @@
+body {
+	font-family: "Oxygen", sans-serif;
+	background-image: url("http://68.media.tumblr.com/9d7bdec6e3b86218a1c6759a66c72108/tumblr_oholzwwZkz1scuau3o2_1280.jpg");
+	background-size: 310px 200px;
+	color: rgb(36, 172, 138);
+}
+
+#main {
+	top: 66px;
+	left: 307.5px;
+	position: absolute;
+	width: 620px;
+	background-color: rgb(255, 255, 255);
+	display: inline-block;
+	padding-bottom: 24px;
+}
+
+#main h1 {
+	text-align: center;
+	font-size: 40pt;
+	margin-top: 15px;
+	margin-bottom: 24px;
+}
+
+img#rowl {
+	display: block;
+	margin: auto;
+	margin-bottom: 40px;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#main p {
+	text-align: center;
+}
+
+.silly {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.goo {
+	font-size: 20px;
+}
+
+.smol {
+	font-size: 11px;
+}
+
+.extrasmol {
+	font-size: 9px;
+}
